@@ -6,3 +6,4 @@ data
 .vscode
 globalConfig.json
 uploads
+database.sqlite
