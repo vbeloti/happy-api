@@ -32,10 +32,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/vbeloti/discord-web
+$ git clone https://github.com/vbeloti/happy-api
 
 # Acesse a pasta do projeto
-$ cd discord-web
+$ cd happy-api
 
 # Instale as dependências
 $ yarn ou npm install
